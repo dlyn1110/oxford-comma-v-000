@@ -8,8 +8,3 @@ elsif (array.count >= 3 )
 else
   return array
 end
-
-#def oxford_comma(array)
-  array = ["kiwi","durian"]
-  array.join(" and ")
-end
